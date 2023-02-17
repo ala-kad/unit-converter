@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+body{
+    background-color: #000 !important;
+    font-family: 'Kalam', sans-serif !important;
+}
+h1{
+    color: #fff;
+}
+
+.btn:not(:disabled):not(.disabled){
+    cursor: none;
+}
